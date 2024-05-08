@@ -1,4 +1,4 @@
-### Hi there
+### 
 <pre>
  I'm İrem, an Industrial Engineering student at Namık Kemal University in Turkey. 
  I specialize in HTML, CSS, JavaScript, and Python. 
